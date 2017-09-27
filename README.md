@@ -1,4 +1,4 @@
-Programming Challenges :boom:  
+# Programming Challenges :boom:  
 <br>
 00 - Name Generator  
 01 - Higher/Lower | Heads/Tails  
@@ -101,7 +101,7 @@ Programming Challenges :boom:
 
 Changed: 40, 69,89 
 
-Categories:
+## Categories:
 String manipulation/lnterpreters:
 09.10,12,15,17, 52, 60, 65, 72,74, 76, 78, 79, 98, 99   
 Math and CS:
@@ -114,6 +114,8 @@ Converters:
 02, 24, 35, 43, 58   
 Misc:
 16,40,41,68,71,83  
-♦Implement at least one tool (except Morse code) in Rumkin Collection: rumkin.com/tools/cipher  
+*Implement at least one tool (except Morse code) in Rumkin Collection: rumkin.com/tools/cipher  
+<br>
 Resources for Help: Wikipedia, Google, StackOverflow  
+<br>
 Creator ILiNuXCQGns  
