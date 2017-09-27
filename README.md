@@ -1,5 +1,5 @@
-## Programming Challenges :boom:
- <br>
+Programming Challenges :boom:  
+<br>
 00 - Name Generator  
 01 - Higher/Lower | Heads/Tails  
 02 - Temperature Converter  
@@ -114,6 +114,6 @@ Converters:
 02, 24, 35, 43, 58   
 Misc:
 16,40,41,68,71,83  
-*Implement at least one tool (except Morse code) in Rumkin Collection: rumkin.com/tools/cipher 
+♦Implement at least one tool (except Morse code) in Rumkin Collection: rumkin.com/tools/cipher  
 Resources for Help: Wikipedia, Google, StackOverflow  
-Creator ILiNuXCQGns
+Creator ILiNuXCQGns  
